@@ -6,9 +6,9 @@ import random
 import os
 
 
-def get_random(num):
-    return random.randint(0, num)
-
+# def get_random(num):
+    # return random.randint(0, num)
+get_random = lambda num: random.randint(0, num)
 
 with open("styles_list.txt", "r") as file:
     content = file.readlines()
