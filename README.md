@@ -1,9 +1,10 @@
 # neuro_art_inspirator
-Collect all art styles from a website https://www.midlibrary.io
+Collect all art styles from a website and allow to open random artist or style from https://www.midlibrary.io
 
-Steps to scrape:
-1) find href="/styles/
-2) Gather all artstyle name that follows "/styles/"
-3) Write it to the styles_list.txt
-4) Click on element "aria-label='Next Page'" if it exists. Go to next page
-5) Repeate
+To update a list of artist launch main.py
+To open random page use main.html
+
+Todo:
+1) Config cloud server
+2) Make all file path relative
+3) Create user frendly HTML with a button to update styles_list.txt
