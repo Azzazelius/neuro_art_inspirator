@@ -10,5 +10,6 @@ To open random page
 
 Todo:
 1) Config cloud server
-2) Make all file path relative
-3) Create user frendly HTML with a button to update styles_list.txt
+2) REMOVE OBSOLETE FILES
+3) Make all file path relative
+4) Create user frendly HTML with a button to update styles_list.txt
